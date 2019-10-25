@@ -3,9 +3,6 @@
     <board-manifest>
       <uri>https://github.com/cypresssemiconductorco/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml</uri>
     </board-manifest>
-    <board-manifest>
-      <uri>https://github.com/cypresssemiconductorco/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml</uri>
-    </board-manifest>
   </board-manifest-list>
   <app-manifest-list>
     <app-manifest>
