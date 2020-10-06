@@ -34,5 +34,8 @@
     <middleware-manifest>
       <uri>https://github.com/cypresssemiconductorco/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml</uri>
     </middleware-manifest>
+    <middleware-manifest dependency-url="https://github.com/cypresssemiconductorco/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml">
+      <uri>https://github.com/cypresssemiconductorco/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml</uri>
+    </middleware-manifest>
   </middleware-manifest-list>
 </super-manifest>
