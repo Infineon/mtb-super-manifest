@@ -1,50 +1,53 @@
-<super-manifest>
+<super-manifest version="2.0">
   <board-manifest-list>
     <board-manifest>
-      <uri>https://github.com/cypresssemiconductorco/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml</uri>
+      <uri>https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml</uri>
     </board-manifest>
-    <board-manifest dependency-url="https://github.com/cypresssemiconductorco/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml">
-      <uri>https://github.com/cypresssemiconductorco/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml</uri>
+    <board-manifest dependency-url="https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml">
+      <uri>https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml</uri>
     </board-manifest>
     <board-manifest>
-      <uri>https://github.com/cypresssemiconductorco/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml</uri>
+      <uri>https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml</uri>
     </board-manifest>
-    <board-manifest dependency-url="https://github.com/cypresssemiconductorco/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml">
-      <uri>https://github.com/cypresssemiconductorco/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml</uri>
+    <board-manifest dependency-url="https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml">
+      <uri>https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml</uri>
     </board-manifest>
   </board-manifest-list>
   <app-manifest-list>
     <app-manifest>
-      <uri>https://github.com/cypresssemiconductorco/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml</uri>
+      <uri>https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml</uri>
     </app-manifest>
     <app-manifest>
-      <uri>https://github.com/cypresssemiconductorco/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml</uri>
+      <uri>https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml</uri>
     </app-manifest>
     <app-manifest>
-      <uri>https://github.com/cypresssemiconductorco/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml</uri>
+      <uri>https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml</uri>
     </app-manifest>
     <app-manifest>
-      <uri>https://github.com/cypresssemiconductorco/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml</uri>
+      <uri>https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml</uri>
+    </app-manifest>
+    <app-manifest>
+      <uri>https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml</uri>
     </app-manifest>
   </app-manifest-list>
   <middleware-manifest-list>
     <middleware-manifest>
-      <uri>https://github.com/cypresssemiconductorco/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml</uri>
+      <uri>https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml</uri>
     </middleware-manifest>
-    <middleware-manifest dependency-url="https://github.com/cypresssemiconductorco/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml">
-      <uri>https://github.com/cypresssemiconductorco/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml</uri>
-    </middleware-manifest>
-    <middleware-manifest>
-      <uri>https://github.com/cypresssemiconductorco/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml</uri>
-    </middleware-manifest>
-    <middleware-manifest dependency-url="https://github.com/cypresssemiconductorco/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml">
-      <uri>https://github.com/cypresssemiconductorco/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml</uri>
+    <middleware-manifest dependency-url="https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml">
+      <uri>https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml</uri>
     </middleware-manifest>
     <middleware-manifest>
-      <uri>https://github.com/cypresssemiconductorco/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml</uri>
+      <uri>https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml</uri>
     </middleware-manifest>
-    <middleware-manifest dependency-url="https://github.com/cypresssemiconductorco/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml">
-      <uri>https://github.com/cypresssemiconductorco/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml</uri>
+    <middleware-manifest dependency-url="https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml">
+      <uri>https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml</uri>
+    </middleware-manifest>
+    <middleware-manifest>
+      <uri>https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml</uri>
+    </middleware-manifest>
+    <middleware-manifest dependency-url="https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml">
+      <uri>https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml</uri>
     </middleware-manifest>
   </middleware-manifest-list>
 </super-manifest>
