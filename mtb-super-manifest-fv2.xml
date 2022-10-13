@@ -35,6 +35,9 @@
     <app-manifest>
       <uri>https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml</uri>
     </app-manifest>
+    <app-manifest>
+      <uri>https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml</uri>
+    </app-manifest>
   </app-manifest-list>
   <middleware-manifest-list>
     <middleware-manifest>
@@ -57,6 +60,9 @@
     </middleware-manifest>
     <middleware-manifest>
       <uri>https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml</uri>
+    </middleware-manifest>
+    <middleware-manifest>
+      <uri>https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml</uri>
     </middleware-manifest>
   </middleware-manifest-list>
 </super-manifest>
