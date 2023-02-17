@@ -27,16 +27,19 @@
       <uri>https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml</uri>
     </app-manifest>
     <app-manifest>
-      <uri>https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml</uri>
+      <uri>https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml</uri>
     </app-manifest>
     <app-manifest>
-      <uri>https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml</uri>
+      <uri>https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml</uri>
     </app-manifest>
     <app-manifest>
       <uri>https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml</uri>
     </app-manifest>
     <app-manifest>
       <uri>https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml</uri>
+    </app-manifest>
+    <app-manifest>
+      <uri>https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml</uri>
     </app-manifest>
   </app-manifest-list>
   <middleware-manifest-list>
@@ -59,10 +62,13 @@
       <uri>https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml</uri>
     </middleware-manifest>
     <middleware-manifest>
-      <uri>https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml</uri>
+      <uri>https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml</uri>
     </middleware-manifest>
     <middleware-manifest>
       <uri>https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml</uri>
+    </middleware-manifest>
+    <middleware-manifest>
+      <uri>https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml</uri>
     </middleware-manifest>
   </middleware-manifest-list>
 </super-manifest>
