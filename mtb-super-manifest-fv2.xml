@@ -12,6 +12,9 @@
     <board-manifest dependency-url="https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml">
       <uri>https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml</uri>
     </board-manifest>
+    <board-manifest dependency-url="https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml">
+      <uri>https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml</uri>
+    </board-manifest>
   </board-manifest-list>
   <app-manifest-list>
     <app-manifest>
@@ -78,9 +81,6 @@
     </middleware-manifest>
     <middleware-manifest>
       <uri>https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml</uri>
-    </middleware-manifest>
-    <middleware-manifest>
-      <uri>https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml</uri>
     </middleware-manifest>
     <middleware-manifest>
       <uri>https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml</uri>
