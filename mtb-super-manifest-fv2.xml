@@ -3,7 +3,7 @@
     <board-manifest>
       <uri>https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml</uri>
     </board-manifest>
-    <board-manifest dependency-url="https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml">
+    <board-manifest dependency-url="https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml" capability-url="https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json">
       <uri>https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml</uri>
     </board-manifest>
     <board-manifest>
