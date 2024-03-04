@@ -33,6 +33,9 @@
       <uri>https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml</uri>
     </app-manifest>
     <app-manifest>
+      <uri>https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml</uri>
+    </app-manifest>
+    <app-manifest>
       <uri>https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml</uri>
     </app-manifest>
     <app-manifest>
