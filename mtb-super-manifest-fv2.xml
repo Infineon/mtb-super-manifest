@@ -39,6 +39,9 @@
       <uri>https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml</uri>
     </app-manifest>
     <app-manifest>
+      <uri>https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml</uri>
+    </app-manifest>
+    <app-manifest>
       <uri>https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml</uri>
     </app-manifest>
     <app-manifest>
@@ -75,6 +78,9 @@
     </middleware-manifest>
     <middleware-manifest dependency-url="https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml">
       <uri>https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml</uri>
+    </middleware-manifest>
+    <middleware-manifest>
+      <uri>https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml</uri>
     </middleware-manifest>
     <middleware-manifest>
       <uri>https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml</uri>
