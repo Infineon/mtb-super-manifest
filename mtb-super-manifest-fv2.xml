@@ -1,4 +1,4 @@
-<super-manifest version="2.0">
+<super-manifest version="2.0" sdk_list_url="https://github.com/Infineon/mtb-sdk-list-manifest/raw/main/mtb-sdk-list-manifest.xml">
   <board-manifest-list>
     <board-manifest>
       <uri>https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml</uri>
